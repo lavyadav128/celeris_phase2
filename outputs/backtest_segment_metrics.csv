@@ -1,0 +1,41 @@
+Horizon,Dimension,Segment,Model,WAPE,Bias,Rows
+1-month one-step,Product_Family,Brake & Safety Systems,LightGBM,0.36105515461768267,-0.0899623161019447,4830
+1-month one-step,Product_Family,Brake & Safety Systems,Seasonal naive,0.5108504612863819,0.10428251753337132,4830
+1-month one-step,Product_Family,Brake & Safety Systems,Recent mean,0.6212325886655877,0.027825213353893347,4830
+1-month one-step,Product_Family,Chassis & Structural,LightGBM,0.34469216821935844,0.0039328131151535545,5108
+1-month one-step,Product_Family,Chassis & Structural,Seasonal naive,0.45338805372197016,0.09052759909612199,5108
+1-month one-step,Product_Family,Chassis & Structural,Recent mean,0.5434485225326943,-0.00624325193616886,5108
+1-month one-step,Product_Family,Electrical Assemblies,LightGBM,0.4428360873910278,0.07812483014606729,4959
+1-month one-step,Product_Family,Electrical Assemblies,Seasonal naive,0.526479392041562,0.04210454104550052,4959
+1-month one-step,Product_Family,Electrical Assemblies,Recent mean,0.6354748223519859,-0.02874614885524369,4959
+1-month one-step,Product_Family,Hydraulic Systems,LightGBM,0.39531378648803484,0.07777370852735269,5310
+1-month one-step,Product_Family,Hydraulic Systems,Seasonal naive,0.436989677147726,0.02749594531916242,5310
+1-month one-step,Product_Family,Hydraulic Systems,Recent mean,0.6147329238029372,-0.02955026239778691,5310
+1-month one-step,Product_Family,Powertrain Components,LightGBM,0.38468566073479427,-0.01299652990372773,4888
+1-month one-step,Product_Family,Powertrain Components,Seasonal naive,0.4317363256413458,0.010197569766894326,4888
+1-month one-step,Product_Family,Powertrain Components,Recent mean,0.5736658462037814,-0.04195931345589181,4888
+1-month one-step,Product_Family,Precision Machined Parts,LightGBM,0.3721558121643932,-0.03656356962107855,4955
+1-month one-step,Product_Family,Precision Machined Parts,Seasonal naive,0.4670670950306624,0.08941560438150818,4955
+1-month one-step,Product_Family,Precision Machined Parts,Recent mean,0.6042192242309454,-0.026820852771546336,4955
+1-month one-step,Product_Family,Thermal Management,LightGBM,0.3613984488953078,-0.06917852554439162,4572
+1-month one-step,Product_Family,Thermal Management,Seasonal naive,0.4646622044408254,0.05854829247452281,4572
+1-month one-step,Product_Family,Thermal Management,Recent mean,0.6325502814938576,-0.012129310555987509,4572
+1-month one-step,Region,Asia Pacific,LightGBM,0.363089545009849,-0.05175101923677999,5798
+1-month one-step,Region,Asia Pacific,Seasonal naive,0.48586069807715027,0.07948833184267669,5798
+1-month one-step,Region,Asia Pacific,Recent mean,0.6474507426557695,0.026860595407637276,5798
+1-month one-step,Region,Europe,LightGBM,0.3491962373971414,-0.05436295984904408,5785
+1-month one-step,Region,Europe,Seasonal naive,0.405339727750557,0.0400277406904831,5785
+1-month one-step,Region,Europe,Recent mean,0.5993163947399438,-0.02760624505396453,5785
+1-month one-step,Region,India,LightGBM,0.36261460707403587,-0.024799564940753815,5863
+1-month one-step,Region,India,Seasonal naive,0.49628811922746263,0.08660276193395376,5863
+1-month one-step,Region,India,Recent mean,0.5688644348280103,-0.02773648020813975,5863
+1-month one-step,Region,Latin America,LightGBM,0.41929993033894913,-0.020163274550222782,5724
+1-month one-step,Region,Latin America,Seasonal naive,0.6023629805972155,0.1173046301125456,5724
+1-month one-step,Region,Latin America,Recent mean,0.6666780476467726,-0.008886149467010732,5724
+1-month one-step,Region,Middle East & Africa,LightGBM,0.5025297736692093,0.23592448053166598,5865
+1-month one-step,Region,Middle East & Africa,Seasonal naive,0.5276058961357413,0.05141486525363939,5865
+1-month one-step,Region,Middle East & Africa,Recent mean,0.6284208113683245,-0.024052912478307847,5865
+1-month one-step,Region,North America,LightGBM,0.32778695566473265,-0.05931433954373498,5587
+1-month one-step,Region,North America,Seasonal naive,0.35107844697207186,0.014121996106109426,5587
+1-month one-step,Region,North America,Recent mean,0.5259157897234003,-0.026041413935553162,5587
+19-month fixed-origin,Overall,All,LightGBM,0.5561561333280882,-0.1180168077557301,54225

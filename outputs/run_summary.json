@@ -1,0 +1,18 @@
+{
+  "train_rows_clean": 243624,
+  "test_rows": 58219,
+  "forecast_rows": 58219,
+  "missing_forecasts": 0,
+  "negative_forecasts": 0,
+  "duplicate_submission_keys": 0,
+  "test_key_order_exact": true,
+  "forecast_interval_rows": 58219,
+  "quantile_crossings": 0,
+  "forecast_total_19m": 2546506,
+  "backtest_wape_one_step": 0.3759503965677482,
+  "backtest_bias_one_step": -0.0172136970116087,
+  "backtest_wape_19m": 0.5561561333280882,
+  "backtest_bias_19m": -0.1180168077557301,
+  "model": "Global LightGBM Tweedie benchmark and LightGBM quantile-regression P10/P50/P90; SKU-region lag/rolling, macro, event, lifecycle, replacement-SKU and intermittency features",
+  "interval_note": "Quantile-regression outputs; nominal coverage has not been empirically calibrated by segment."
+}

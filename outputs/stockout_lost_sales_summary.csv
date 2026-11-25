@@ -1,0 +1,6 @@
+Reason,Stockout_Records,Requested_Units,Shipped_Units,Lost_Units
+Capacity constraint,377,17743,7943,6588
+Logistics delay,391,19419,8632,7095
+Semiconductor allocation,4314,163173,108096,55137
+Supplier quality hold,381,17237,7661,6528
+Tooling breakdown,367,17747,8222,6479

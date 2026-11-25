@@ -1,0 +1,8 @@
+file,rows_before,rows_after,rows_removed,missing_cells_before_common_columns,missing_cells_after_common_columns,columns
+train.csv,248248,243624,4624,6945,4440,15
+test.csv,58219,58219,0,0,0,10
+macro_indicators.csv,114,113,1,5,0,11
+sku_master.csv,601,601,0,1184,1184,10
+events_calendar.csv,68,68,0,1,1,7
+inventory_stockouts.csv,5830,5830,0,0,0,11
+sample_submission.csv,5,5,0,0,0,4

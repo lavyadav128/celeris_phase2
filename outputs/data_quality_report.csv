@@ -1,0 +1,9 @@
+issue_type,file,rows_affected,action
+invalid_date,train.csv,0,Rows with unparseable Date removed
+duplicate_record_id,train.csv,3682,Kept latest Load_Timestamp per Record_ID
+duplicate_date_sku_region,train.csv,6,Kept latest loaded row per monthly key
+negative_units,train.csv,491,Set invalid negative target to missing
+invalid_price,train.csv,36517,"Replaced zero/extreme prices using SKU median, then family median"
+revenue_reconciliation,train.csv,1719,Recalculated clean revenue from unconstrained demand and cleaned price
+lifecycle_conflict,train.csv,16,Flagged out-of-lifecycle records; excluded from model targets
+extreme_demand,train.csv,1135,Flagged robust SKU-level outliers; retained pending event review
